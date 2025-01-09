@@ -1,0 +1,11 @@
+Start Port,End Port,Distance (NM),Travel Time (Days),Weather Conditions,Traffic Density,Fuel Consumption (Tons),Route Cost,Optimal Route
+Mumbai,Cochin,850,3.5,Clear,Moderate,120,15000,Yes
+Chennai,Vishakhapatnam,500,2.1,Stormy,Low,75,9000,Yes
+Rajula,Mumbai,1400,5.8,Rainy,High,200,22000,No
+Rajula,Chennai,1800,7.3,Clear,High,250,30000,No
+Cochin,Rajula,500,2,Rainy,Low,70,8500,Yes
+Cochin,Mumbai,850,3.5,Clear,Moderate,110,14000,Yes
+Rajula,Mumbai,1100,6.6,Stormy,High,210,25000,No
+Mumbai,Rajula,1200,4.9,Rainy,Moderate,160,19000,Yes
+Mumbai,Cochin,1300,5.4,Clear,Low,175,20000,No
+Rajula,Cochin,1500,6.2,Clear,Moderate,190,22000,Yes
