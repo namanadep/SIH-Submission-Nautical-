@@ -267,7 +267,7 @@ info_placeholder = st.empty()
 if st.button('Run Simulation'):
     try:
         # Load the historical data
-        historical_data = pd.read_csv("E:/NAMAN/SIH Nautical/Datasets/Historical_data.csv")
+        historical_data = pd.read_csv("Historical_data.csv")
         
         # Train the ANN on the historical data
         ANN_model = train_ANN(historical_data)
